@@ -2,3 +2,8 @@
 /resourcepacks
 /saves
 /server-resource-packs
+usercache.json
+usernamecache.json
+servers.dat
+options.txt
+crafttweaker.log
