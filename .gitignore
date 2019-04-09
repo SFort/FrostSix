@@ -1,9 +1,13 @@
 /logs
 /resourcepacks
+/screenshots
 /saves
 /server-resource-packs
+/.mixin.out
 usercache.json
 usernamecache.json
 servers.dat
 options.txt
 crafttweaker.log
+patchouli_data.json
+OpenComputersMod-1.7.4.153*
