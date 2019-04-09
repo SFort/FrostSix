@@ -4,6 +4,7 @@
 /saves
 /server-resource-packs
 /.mixin.out
+/config
 usercache.json
 usernamecache.json
 servers.dat
