@@ -1,11 +1,13 @@
 /logs
 /local
 /resourcepacks
+/crash-reports
 /screenshots
 /saves
 /server-resource-packs
 /.mixin.out
 /config
+/mods/OpenTerrainGenerator/worlds/
 usercache.json
 usernamecache.json
 servers.dat
