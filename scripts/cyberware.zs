@@ -1,8 +1,8 @@
 recipes.remove(<cyberware:surgery_chamber>);
 recipes.addShaped(<cyberware:surgery_chamber>, 
-	[[<ore:blockMetal>, <thaumcraft:focus_2>, <ore:blockMetal>], 
-	[<ore:blockMetal>, <buildcraftsilicon:assembly_table>, <ore:blockMetal>], 
-	[<ore:blockMetal>, <opensecurity:private_secure_door>, <ore:blockMetal>]]);
+	[[<ore:blockSteel>, <thaumcraft:focus_2>, <ore:blockSteel>], 
+	[<ore:blockSteel>, <buildcraftsilicon:assembly_table>, <ore:blockSteel>], 
+	[<ore:blockSteel>, <opensecurity:private_secure_door>, <ore:blockSteel>]]);
 recipes.addShaped(<cyberware:surgery>,
 	[[<ore:blockSteel>, <ic2:upgrade>, <ore:blockSteel>],
 	[<ic2:upgrade>, <ore:oc:cpu3>, <ic2:upgrade>],
