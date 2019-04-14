@@ -22,3 +22,7 @@ mods/Biome_Bundle-1.12.2-v6.1.jar
 mods/OpenTerrainGenerator-1.12.2+-+v6.jar
 mods/1.12.2/OTG-Core.jar
 /Server
+mods/LoadingProfiler-MC1.12-1.3.jar
+loading-log.log
+mods/memory_repo
+/DIM-1
