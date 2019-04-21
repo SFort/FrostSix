@@ -1,5 +1,6 @@
-<ore:toolAxe>.add(<minecraft:stone_axe:*>);
 <ore:toolAxe>.add(<minecraft:iron_axe:*>);
+<ore:toolAxe>.add(<minecraft:wooden_axe:*>);
+<ore:toolAxe>.add(<minecraft:stone_axe:*>);
 <ore:toolAxe>.add(<minecraft:diamond_axe:*>);
 <ore:toolAxe>.add(<minecraft:golden_axe:*>);
 
