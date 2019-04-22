@@ -9,3 +9,4 @@ recipes.remove(<opensecurity:movement_upgrade>);
 recipes.remove(<metalchests:metal_chest:*>);
 recipes.remove(<metalchests:hungry_metal_chest:*>);
 recipes.remove(<buildcraftfactory:mining_well>);
+recipes.remove(<projectred-expansion:machine2:2>);
