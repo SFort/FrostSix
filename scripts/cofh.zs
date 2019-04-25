@@ -8,5 +8,5 @@ recipes.addShaped(<thermallogistics:manager>, [[<ore:plateIron>, <minecraft:reds
 
 recipes.remove(<thermalfoundation:glass:*>);
 recipes.remove(<thermalfoundation:glass_alloy:*>);
-recipes.addShaped(<thermalfoundation:glass:3>*2, [[<ore:plateLead>, <minecraft:glass>, <ore:plateLead>], [<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], [<ore:plateLead>, <ore:blockGlassColorless>, <ore:plateLead>]]);
-recipes.addShaped(<thermalfoundation:glass_alloy:3>*2, [[<ore:plateBronze>, <minecraft:glass>, <ore:plateBronze>], [<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], [<ore:plateBronze>, <ore:blockGlassColorless>, <ore:plateBronze>]]);
+recipes.addShaped(<thermalfoundation:glass:3>*2, [[<ore:plateLead>, <ore:blockGlass>, <ore:plateLead>], [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>], [<ore:plateLead>, <ore:blockGlass>, <ore:plateLead>]]);
+recipes.addShaped(<thermalfoundation:glass_alloy:3>*2, [[<ore:plateBronze>, <ore:blockGlass>, <ore:plateBronze>], [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>], [<ore:plateBronze>, <ore:blockGlass>, <ore:plateBronze>]]);
