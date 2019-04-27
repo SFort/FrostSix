@@ -6,6 +6,7 @@ Canner.addEnrichRecipe(<liquid:redstone> * 120, <liquid:water> * 20, <ore:dustRe
 Canner.addEnrichRecipe(<liquid:glowstone> * 300, <liquid:water> * 50, <ore:dustGlowstone>);
 Canner.addEnrichRecipe(<liquid:ender> * 300, <liquid:water> * 50, <ore:dustEnder>);
 Canner.addEnrichRecipe(<liquid:aerotheum> * 300, <liquid:water> * 50, <ore:dustAerotheum>);
+Canner.addEnrichRecipe(<liquid:sulfur> * 800, <liquid:water> * 1000, <ore:dustSulfur>);
 
 Canner.addBottleRecipe(<ic2:filled_tin_can>*16, <ic2:crafting:10>*16, <nuclearcraft:dominos>);
 Canner.addBottleRecipe(<ic2:filled_tin_can>*12, <ic2:crafting:10>*12, <nuclearcraft:marshmallow>);
@@ -16,3 +17,4 @@ Canner.addBottleRecipe(<thermaldynamics:duct_0:4>, <thermaldynamics:duct_0:8>, <
 Canner.addBottleRecipe(<thermaldynamics:duct_0:5>, <thermaldynamics:duct_0:9>, <ore:dustCryotheum>);
 Canner.addBottleRecipe(<thermaldynamics:duct_32:6>, <thermaldynamics:duct_32:4>, <ore:dustGlowstone>*2);
 Canner.addBottleRecipe(<thermaldynamics:duct_64:5>, <thermaldynamics:duct_64:9>, <ore:dustCryotheum>);
+Canner.addBottleRecipe(<minecraft:blaze_rod>, <immersiveengineering:graphite_electrode>, <ore:dustSulfur>*2);

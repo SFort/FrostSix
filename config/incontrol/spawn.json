@@ -1,6 +1,12 @@
 [
   {
     "mob": ["minecraft:bat", "minecraft:llama"],
+    "dimension": 0,
     "result": "deny"
+  },
+  {
+    "mob": ["minecraft:wither_skeleton"],
+    "dimension": [-1, 1],
+    "result": "allow"
   }
 ]
