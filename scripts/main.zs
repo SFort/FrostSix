@@ -13,6 +13,8 @@ recipes.addShapeless(<projectred-core:resource_item:105>*4, [<ore:dustRedstone>,
 
 recipes.remove(<magneticraft:grinder>);
 recipes.addShaped(<magneticraft:grinder>, [[<ore:gearIron>, <ore:paper>, <ore:gearIron>]]);
+recipes.remove(<magneticraft:multiblock_parts:5>);
+recipes.addShaped(<magneticraft:multiblock_parts:5>, [[null, <ore:plateIron>, null], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [null, <ore:plateIron>, null]]);
 
 //TMP
 recipes.remove(<multistorage:ender_bag:2>);
