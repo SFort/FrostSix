@@ -10,3 +10,11 @@ recipes.remove(<weirdinggadget:weirding_gadget>);
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[null, <rsgauges:bistableswitch_rustic4>, null], [<ore:plateBronze>, <ore:gearBronze>, <ore:plateBronze>]]);
 
 recipes.addShapeless(<projectred-core:resource_item:105>*4, [<ore:dustRedstone>, <ore:gemLapis>]);
+
+
+
+//TMP
+recipes.remove(<multistorage:ender_bag:2>);
+recipes.remove(<multistorage:ender_chest>);
+recipes.remove(<endertanks:ender_bucket>);
+recipes.remove(<endertanks:ender_tank>);
