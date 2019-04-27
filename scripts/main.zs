@@ -11,7 +11,8 @@ recipes.addShaped(<weirdinggadget:weirding_gadget>, [[null, <rsgauges:bistablesw
 
 recipes.addShapeless(<projectred-core:resource_item:105>*4, [<ore:dustRedstone>, <ore:gemLapis>]);
 
-
+recipes.remove(<magneticraft:grinder>);
+recipes.addShaped(<magneticraft:grinder>, [[<ore:gearIron>, <ore:paper>, <ore:gearIron>]]);
 
 //TMP
 recipes.remove(<multistorage:ender_bag:2>);
