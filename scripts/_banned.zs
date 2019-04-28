@@ -16,3 +16,5 @@ recipes.remove(<ore:plateLead>);
 recipes.remove(<ore:plateSteel>);
 recipes.remove(<ore:plateToungsten>);
 recipes.remove(<yabba:upgrade_star_tier>);
+recipes.remove(<nuclearcraft:water_source>);
+recipes.remove(<magneticraft:water_generator>);
