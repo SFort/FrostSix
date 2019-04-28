@@ -16,6 +16,10 @@ recipes.addShaped(<magneticraft:grinder>, [[<ore:gearIron>, <ore:paper>, <ore:ge
 recipes.remove(<magneticraft:multiblock_parts:5>);
 recipes.addShaped(<magneticraft:multiblock_parts:5>*4, [[null, <ore:plateIron>, null], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [null, <ore:plateIron>, null]]);
 
+recipes.addShaped(<minecraft:glowstone_dust>*9, [[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>], [<ore:dustRedstone>, <ic2:dust:27>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]]);
+recipes.addShaped(<ic2:dust:27>*9, [[<ore:dustSulfur>]]);
+
+
 //TMP
 recipes.remove(<multistorage:ender_bag:2>);
 recipes.remove(<multistorage:ender_chest>);
