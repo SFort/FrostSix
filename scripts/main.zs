@@ -20,6 +20,7 @@ recipes.addShaped(<minecraft:glowstone_dust>*9, [[<ore:dustRedstone>, <ore:dustR
 recipes.addShaped(<ic2:dust:27>*9, [[<ore:dustSulfur>]]);
 recipes.removeShaped(<opencomputers:upgrade:19>);
 recipes.addShaped(<opencomputers:upgrade:19>, [[<ore:ingotGold>, <minecraft:compass>, <ore:ingotGold>], [<ore:oc:circuitChip2>, <opencomputers:material:11>, <ore:oc:circuitChip2>], [<ore:ingotGold>, <ore:oc:ram1>, <ore:ingotGold>]]);
+recipes.addShapeless(<opencomputers:upgrade:19>, [<ore:oc:navigationUpgrade>]);
 
 
 
