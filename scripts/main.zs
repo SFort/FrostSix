@@ -22,6 +22,8 @@ recipes.removeShaped(<opencomputers:upgrade:19>);
 recipes.addShaped(<opencomputers:upgrade:19>, [[<ore:ingotGold>, <minecraft:compass>, <ore:ingotGold>], [<ore:oc:circuitChip2>, <opencomputers:material:11>, <ore:oc:circuitChip2>], [<ore:ingotGold>, <ore:oc:ram1>, <ore:ingotGold>]]);
 recipes.addShapeless(<opencomputers:upgrade:19>, [<ore:oc:navigationUpgrade>]);
 
+recipes.remove(<industrialrenewal:medkit>);
+recipes.addShaped(<industrialrenewal:medkit>, [[<ore:paper>, <ore:paper>, <ore:paper>], [<ore:string>, <forge:bucketfilled>, <ore:string>], [<ore:paper>, <ore:paper>, <ore:paper>]]);
 
 
 //TMP
