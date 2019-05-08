@@ -18,3 +18,4 @@ recipes.remove(<ore:plateToungsten>);
 recipes.remove(<yabba:upgrade_star_tier>);
 recipes.remove(<magneticraft:water_generator>);
 recipes.remove(<nuclearcraft:water_source>);
+furnace.remove(<ic2:misc_resource:5>);
