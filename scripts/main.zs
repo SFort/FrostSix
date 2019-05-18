@@ -23,7 +23,7 @@ recipes.addShaped(<opencomputers:upgrade:19>, [[<ore:ingotGold>, <minecraft:comp
 recipes.addShapeless(<opencomputers:upgrade:19>, [<ore:oc:navigationUpgrade>]);
 
 recipes.remove(<industrialrenewal:medkit>);
-recipes.addShaped(<industrialrenewal:medkit>, [[<ore:paper>, <ore:paper>, <ore:paper>], [<ore:string>, <forge:bucketfilled>, <ore:string>], [<ore:paper>, <ore:paper>, <ore:paper>]]);
+recipes.addShaped(<industrialrenewal:medkit>, [[<ore:paper>, <ore:paper>, <ore:paper>], [<ore:string>, <forge:bucketfilled>.withTag({FluidName:"ic2hot_water"}), <ore:string>], [<ore:paper>, <ore:paper>, <ore:paper>]]);
 
 
 //TMP
