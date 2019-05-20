@@ -18,3 +18,6 @@ Canner.addBottleRecipe(<thermaldynamics:duct_0:5>, <thermaldynamics:duct_0:9>, <
 Canner.addBottleRecipe(<thermaldynamics:duct_32:6>, <thermaldynamics:duct_32:4>, <ore:dustGlowstone>*2);
 Canner.addBottleRecipe(<thermaldynamics:duct_64:5>, <thermaldynamics:duct_64:9>, <ore:dustCryotheum>);
 Canner.addBottleRecipe(<minecraft:blaze_rod>, <immersiveengineering:graphite_electrode>, <ore:dustSulfur>*2);
+
+import mods.ic2.ScrapBox;
+ScrapBox.addDrop(<minecraft:nether_wart>.weight(0.01));
