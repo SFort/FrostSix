@@ -10,13 +10,3 @@
 <ore:toolAxe>.add(<embers:axe_dawnstone:*>);
 <ore:toolAxe>.add(<immersiveengineering:axe_steel:*>);
 <ore:toolAxe>.add(<ic2:bronze_axe:*>);
-<ore:toolAxe>.add(<thaumcraft:thaumium_axe:*>);
-<ore:toolAxe>.add(<thaumcraft:void_axe:*>);
-<ore:toolAxe>.add(<thaumcraft:elemental_axe:*>);
-
-
-<ore:plateIron>.add(<magneticraft:light_plates:0>);
-<ore:plateGold>.add(<magneticraft:light_plates:1>);
-<ore:plateCopper>.add(<magneticraft:light_plates:2>);
-<ore:plateLead>.add(<magneticraft:light_plates:3>);
-<ore:plateSteel>.add(<magneticraft:light_plates:6>);
